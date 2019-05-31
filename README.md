@@ -8,4 +8,4 @@ basic bash commands(suzen 14-18)
 
 basic bash commands2(suzen 19-24)
 
-suzen1
+begginer(suzen 1-2)
