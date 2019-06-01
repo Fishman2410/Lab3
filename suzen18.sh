@@ -1,1 +1,1 @@
-/home/suzen # man diary
+man diary
