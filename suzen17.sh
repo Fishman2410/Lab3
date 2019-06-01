@@ -1,1 +1,1 @@
-/home/suzen # ls -a
+ls -a
